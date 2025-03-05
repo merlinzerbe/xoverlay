@@ -2,6 +2,8 @@
 
 `xoverlay` is an X11 image viewer with transparency support. You need a compositor for transparency to work, e.g. [picom](https://github.com/yshui/picom).
 
+![preview](https://github.com/user-attachments/assets/d3f04a0c-c7ac-43d6-ac57-8b0f1428dd69)
+
 Build `xoverlay` from source:
 
 ```
