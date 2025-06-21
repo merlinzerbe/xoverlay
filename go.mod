@@ -5,8 +5,8 @@ go 1.24.0
 require (
 	github.com/jezek/xgb v1.1.1
 	github.com/spf13/cobra v1.9.1
-	golang.org/x/image v0.24.0
-	golang.org/x/sys v0.30.0
+	golang.org/x/image v0.28.0
+	golang.org/x/sys v0.33.0
 )
 
 require (
